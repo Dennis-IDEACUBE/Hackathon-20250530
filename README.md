@@ -1,7 +1,7 @@
 # Hackathon-20250530
 
 1. Visual Studio Code 설치
-  - Visual Studio Code Extensions 추가 항목 설치
+  - Visual Studio Code Extensions 기본설치
   
         ms-azuretools.azure-dev
         ms-azuretools.vscode-azureappservice
@@ -24,8 +24,8 @@
         ms-vscode.vscode-node-azure-pack
         prompt-flow.prompt-flow
 
-  - Kubernetes
-  - Azure Kubernetes Service
+  - Kubernetes 추가설치
+  - Azure Kubernetes Service 추가설치
   
 2. Azure CLI 설치
 3. choco package manager 설치
